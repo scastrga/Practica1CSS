@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Zilla+Slab:wght@300&display=swap');
+
+/* PUNTO 1 */
+h1 {
+  font: "Zilla Slab";
+}
+
+/* PUNTO 2 */
+div .fp {
+
+}
+
+/* PUNTO 3 */
+#fpdual{
+
+}
+
+/* PUNTO 4 */
+.fp .fp-dual{
+
+}
+
+/* PUNTO 5 */
+section .text{
+
+}
+
+/* PUNTO 6*/
+div.fp-dual.gs{
+
+}
+
+/* BONUS 1 */
+.wrapper > li {
+  
+}
+
+/* BONUS 2 */
+.wrapper2 + .wrapper3{
+
+}
